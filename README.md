@@ -9,9 +9,15 @@ This project aims to create a tool that performs graphical data analysis, data q
 
 ## Overview of data and script files provided
 This submission includes the following documents:
+
 ● “Project-code.ipnyb”: This file contains the code used to generate all the results and forecasting done in this project.
+
 ● “1630000_meantrend.csv”: This file contains the Guam dataset used to generate all the plots and figures for this project. This file is directly used for developing the project code.
+
 ● “9452210_meantrend.csv”: This file contains the Alaska dataset used to generate all the plots and figures for this project. This file is directly used for developing the project code.
-● “IntermediateResults.png”: This image shows the data for the two stations after data quality checking has been performed on both stations
-● “Finalresult-station1.png”: This image shows the ARIMA forecasting for station 1 (Guam for this test)
-● “Finalresult-station2.png”: This image shows the ARIMA forecasting for station 2 (Alaska for this test)
+
+● “IntermediateResults.png”: This image shows the data for the two stations after data quality checking has been performed on both stations.
+
+● “Finalresult-station1.png”: This image shows the ARIMA forecasting for station 1 (Guam for this test).
+
+● “Finalresult-station2.png”: This image shows the ARIMA forecasting for station 2 (Alaska for this test).
